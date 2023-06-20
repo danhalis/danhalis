@@ -6,8 +6,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hieudaoleduc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hieudaoleduc" height="30" width="40" /></a>
-<a href="https://github.com/danhalis" target="blank"><img align="center" src="https://github.com/danhalis/danhalis/assets/60619445/1ac9fd08-d5e7-4bcd-a411-c1eb1d2f1d3b" alt="hieudaoleduc" alt="danhalis" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hieudaoleduc" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hieudaoleduc" height="30" width="40" />
+</a>
+<a href="https://github.com/danhalis" target="blank">
+  <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/60619445/246988037-1ac9fd08-d5e7-4bcd-a411-c1eb1d2f1d3b.png" alt="danhalis" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
